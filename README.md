@@ -286,12 +286,3 @@ trabalho-3-ws-api/
     ├── api_servico.py                 proxy tipado sobre HTTP
     └── cliente.py                     cenários de teste
 ```
-
----
-
-## 10. Vídeo e entrega
-
-A entrega no Moodle deve conter o link do repositório e um vídeo apresentando:
-o código-fonte do serviço (os 3 objetos distribuídos e o modelo de domínio) e dos
-dois clientes, mais a execução com o servidor de pé e os dois clientes rodando os
-cenários. Este README serve como relatório dos serviços remotos implementados.
