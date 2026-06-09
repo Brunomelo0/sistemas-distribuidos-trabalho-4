@@ -1,0 +1,10 @@
+servidor/target/
+cliente-js/node_modules/
+cliente-python/__pycache__/
+cliente-python/.venv/
+broker/node_modules/
+broker/dados-broker/
+assinantes/node_modules/
+assinantes/dados-auditoria/
+*.class
+*.log

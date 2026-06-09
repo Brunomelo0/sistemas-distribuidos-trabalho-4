@@ -1,0 +1,13 @@
+{
+  "name": "cliente-controle-alunos-js",
+  "version": "1.0.0",
+  "description": "Trabalho 3 - WS/API - Cliente JavaScript (Node) do servico de controle de alunos",
+  "type": "module",
+  "main": "cliente.js",
+  "scripts": {
+    "start": "node cliente.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

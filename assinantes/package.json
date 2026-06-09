@@ -1,0 +1,13 @@
+{
+  "name": "assinantes-pubsub",
+  "version": "1.0.0",
+  "description": "Trabalho 4 - Comunicacao Indireta - Servicos assinantes (Node nativo, sem dependencias)",
+  "type": "module",
+  "scripts": {
+    "notificacao": "node servico-notificacao.js",
+    "auditoria": "node servico-auditoria.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

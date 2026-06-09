@@ -1,0 +1,13 @@
+{
+  "name": "broker-pubsub",
+  "version": "1.0.0",
+  "description": "Trabalho 4 - Comunicacao Indireta - Broker Publish-Subscribe (Node nativo, sem dependencias)",
+  "type": "module",
+  "main": "broker.js",
+  "scripts": {
+    "start": "node broker.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
